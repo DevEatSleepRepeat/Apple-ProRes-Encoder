@@ -1,0 +1,52 @@
+{
+  "diskImage" : {
+    "autoopen" : true,
+    "background" : {
+      "color" : "{1.000000, 1.000000, 1.000000, 1.000000}",
+      "layoutObjects" : [
+
+      ],
+      "type" : 1
+    },
+    "iconPreviewVisible" : false,
+    "iconSize" : 65,
+    "itemInfoVisible" : false,
+    "labelPosition" : 0,
+    "licenses" : [
+
+    ],
+    "nameFontSize" : 12,
+    "statusBarVisible" : false,
+    "toolbarVisible" : false,
+    "uid" : "btcjihejzj",
+    "validationScheme" : 0,
+    "viewLayout" : 0,
+    "volumeIcon" : "volumeIcon",
+    "volumeName" : "APRE",
+    "volumeSize" : 0,
+    "volumeSizeOption" : "Automatic",
+    "windowContentHeight" : 360,
+    "windowContents" : [
+      {
+        "filePath" : "\/Users\/samuel\/Documents\/GitHub\/Apple-ProRes-Encoder\/build\/Apple ProRes Encoder.pkg",
+        "iconSize" : 100,
+        "invisible" : false,
+        "isAnAlias" : false,
+        "location" : "{220, 180}",
+        "relativeFilePath" : "build\/Apple ProRes Encoder.pkg"
+      },
+      {
+        "filePath" : "\/Users\/samuel\/Documents\/GitHub\/Apple-ProRes-Encoder\/uninstaller\/dist\/uninstall",
+        "iconSize" : 100,
+        "invisible" : false,
+        "isAnAlias" : false,
+        "location" : "{380, 180}",
+        "relativeFilePath" : "uninstaller\/dist\/uninstall"
+      }
+    ],
+    "windowContentWidth" : 600,
+    "windowLeft" : 200,
+    "windowTop" : 120
+  },
+  "version" : 4
+}
