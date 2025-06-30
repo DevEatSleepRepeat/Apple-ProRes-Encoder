@@ -2,11 +2,10 @@
   "diskImage" : {
     "autoopen" : true,
     "background" : {
-      "color" : "{1.000000, 1.000000, 1.000000, 1.000000}",
       "layoutObjects" : [
 
       ],
-      "type" : 1
+      "type" : 3
     },
     "iconPreviewVisible" : false,
     "iconSize" : 65,
@@ -17,6 +16,7 @@
     ],
     "nameFontSize" : 12,
     "statusBarVisible" : false,
+    "suggestedDiskImageName" : "APRE.dmg",
     "toolbarVisible" : false,
     "uid" : "btcjihejzj",
     "validationScheme" : 0,
